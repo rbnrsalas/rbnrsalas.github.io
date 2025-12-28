@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## The Wharton School, University of Pennsylvania
 
-Organize your courses by years, topics, or universities, however you like!
+- **Wharton Doctoral Tech Camp** — Summer 2024, Summer 2025
+- **Carpentries Ecology Programming Workshop** (UPenn CURF) — June 2024, June 2025
+- **Carpentries Social Science Programming Workshop** (UPenn Library) — March 2024
+
+## INCAE Business School
+
+- **Marketing Technology**, Executive MBA (online with Emeritus) — 2022
+- **Quantitative Methods**, MAIT — 2021
+- **CS50 for Business**, MAIT — 2021
