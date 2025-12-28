@@ -14,6 +14,8 @@ nav_order: 3
   <br><span style="color: #b58900;">**Best Paper Award**, INFORMS CIST 2025</span>
   <br><span style="color: #b58900;">**Vithala Rao Best PhD Paper Award**, AIM 2025</span>
 
+- **Ramirez-Salas, R.** & Fernandez-Corrales, C. (2022). "Does a CDO Enhance Company Inventiveness? An Empirical Study on New Managerial Positions and Innovation."
+
 ## Selected Presentations
 
 - **2025** — INFORMS Conference on Information Systems and Technology (CIST), Atlanta, GA
