@@ -9,6 +9,7 @@ nav_order: 3
 ## Working Papers
 
 - **Salas, R.** & Hosanagar, K. (2025). "AI-Mediated Marketing: Constrained Content Optimization for LLM Visibility."
+  <br><span style="color: #6c757d;">Presented at WITS 2025 and WISE 2025, Dallas, TX</span>
 
 - **Salas, R.** & Hosanagar, K. (2025). "Beyond Fluency: A Process-Centric Analysis of Human-AI Collaboration in Creative Industries."
   <br><span style="color: #b58900;">**Best Paper Award**, INFORMS CIST 2025</span>
@@ -18,6 +19,8 @@ nav_order: 3
 
 ## Selected Presentations
 
+- **2025** — Workshop on Information Technology and Systems (WITS), Dallas, TX
+- **2025** — Workshop on Information Systems and Economics (WISE), Dallas, TX
 - **2025** — INFORMS Conference on Information Systems and Technology (CIST), Atlanta, GA
 - **2025** — Artificial Intelligence in Management (AIM), USC Marshall, Los Angeles, CA
 - **2024** — Workshop on Information Systems and Economics (WISE), Bangkok, Thailand
