@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-received-best-paper-award-at-informs-conference-on-information-systems-and-technology-cist-2025-in-atlanta-ga",
           title: 'Received Best Paper Award at INFORMS Conference on Information Systems and Technology (CIST)...',
           description: "",
+          section: "News",},{id: "news-featured-in-the-daily-pennsylvanian-penn-public-interest-technology-initiative-hosts-virtual-fireside-talk-on-ai-applications-discussed-the-importance-of-having-the-human-in-the-loop-in-ai-development",
+          title: 'Featured in The Daily Pennsylvanian: Penn Public Interest Technology initiative hosts virtual fireside...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
