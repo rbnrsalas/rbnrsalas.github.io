@@ -17,6 +17,10 @@ nav_order: 3
 
 - **Ramirez-Salas, R.** & Fernandez-Corrales, C. (2022). "Does a CDO Enhance Company Inventiveness? An Empirical Study on New Managerial Positions and Innovation."
 
+## Peer Review Activities
+
+- Reviewer, *Management Information Systems Quarterly* (MISQ)
+
 ## Selected Presentations
 
 - **2025** — [Workshop on Information Technology and Systems (WITS)](https://witsconf.org/), Nashville, TN
