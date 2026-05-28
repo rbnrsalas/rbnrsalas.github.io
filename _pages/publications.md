@@ -8,6 +8,8 @@ nav_order: 3
 
 ## Working Papers
 
+- **Salas, R.** & Hosanagar, K. (2026). "Tell Me the Truth: Conjoint Analysis in the LLMs Era."
+
 - **Salas, R.** & Hosanagar, K. (2025). "AI-Mediated Marketing: Constrained Content Optimization for LLM Visibility."
   <br><span style="color: #6c757d;">Presented at [WITS 2025](https://witsconf.org/) and [WISE 2025](https://wiseconf.org/), Nashville, TN</span>
 
@@ -20,9 +22,12 @@ nav_order: 3
 ## Peer Review Activities
 
 - Reviewer, *Management Information Systems Quarterly* (MISQ)
+- Reviewer, *International Conference on Information Systems* (ICIS), 2026
 
 ## Selected Presentations
 
+- **2026** — [Academy of Management Annual Meeting (AOM)](https://aom.org/), Philadelphia, PA *(Invited Panelist)*
+- **2026** — [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences), San Francisco, CA *(Invited Panelist)*
 - **2025** — [Workshop on Information Technology and Systems (WITS)](https://witsconf.org/), Nashville, TN
 - **2025** — [Workshop on Information Systems and Economics (WISE)](https://wiseconf.org/), Nashville, TN
 - **2025** — [INFORMS Conference on Information Systems and Technology (CIST)](https://sites.google.com/view/cist2025), Atlanta, GA
