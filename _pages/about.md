@@ -33,7 +33,7 @@ My research examines the economics of human-AI collaboration through machine lea
 
 **Research Interests:**
 - *Broad Interests:* Artificial Intelligence, Machine Learning, Quantitative Marketing, Information Systems
-- *Methods:* Bayesian Inference, Generative AI, Multimodal Machine Learning, Probabilistic Machine Learning
-- *Applications:* AI and Creativity, Human-AI Collaboration, AI in Non-Cognitive Tasks, Generative Engine Optimization
+- *Methods:* Experimental Design, Mechanistic Interpretability of LLMs, Gradient-Based Methods, Bayesian Inference, Generative AI
+- *Applications:* Generative Engine Optimization, Agentic Commerce, Human-AI Collaboration, AI and Creativity
 
-I hold degrees in Computer Science, Business Administration, and an MBA.
+I hold degrees in Computer Science, Business Administration, and an MBA, along with a dual M.A. in Statistics and Data Science from The Wharton School.
