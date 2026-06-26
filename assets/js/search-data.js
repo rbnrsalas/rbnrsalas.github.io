@@ -58,6 +58,9 @@ ninja.data = [{
           section: "News",},{id: "news-will-serve-as-invited-panelist-at-the-academy-of-management-annual-meeting-aom-2026-in-philadelphia-pa",
           title: 'Will serve as Invited Panelist at the Academy of Management Annual Meeting (AOM...',
           description: "",
+          section: "News",},{id: "news-awarded-the-winkelman-fellowship-in-applied-economics-by-the-wharton-school-a-highly-prestigious-fellowship-recognizing-the-phd-student-across-all-departments-who-shows-the-greatest-promise-for-an-outstanding-research-and-teaching-career-at-the-world-s-leading-schools-of-management",
+          title: 'Awarded the Winkelman Fellowship in Applied Economics by The Wharton School, a highly...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
