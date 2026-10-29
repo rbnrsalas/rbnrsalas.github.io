@@ -11,6 +11,7 @@ nav_order: 3
 - **Salas, R.** & Hosanagar, K. (2026). "Stranger Names: Measuring Brand Distinctiveness with Language Models."
 
 - **Salas, R.** & Hosanagar, K. (2026). "Tell Me the Truth: Conjoint Analysis in the LLMs Era."
+  <br><span style="color: #6c757d;">Accepted at [CIST 2026](https://cist2026.github.io/), San Francisco, CA, and [WISE 2026](https://wiseconf2026.github.io/), Lisbon, Portugal</span>
 
 - **Salas, R.** & Hosanagar, K. (2025). "AI-Mediated Marketing: Constrained Content Optimization for LLM Visibility."
   <br><span style="color: #b58900;">**Dominique Hanssens Best PhD Paper Award** ($5,000), AIM 2026</span>
@@ -31,6 +32,8 @@ nav_order: 3
 
 - **2026** — [Academy of Management Annual Meeting (AOM)](https://aom.org/), Philadelphia, PA *(Invited Panelist)*
 - **2026** — [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences), San Francisco, CA *(Invited Panelist)*
+- **2026** — [Workshop on Information Systems and Economics (WISE)](https://wiseconf2026.github.io/), Lisbon, Portugal
+- **2026** — [INFORMS Conference on Information Systems and Technology (CIST)](https://cist2026.github.io/), San Francisco, CA
 - **2026** — [Artificial Intelligence in Management (AIM)](https://www.marshall.usc.edu/faculty-research/centers-excellence/center-artificial-intelligence-society/aim-conference), USC Marshall, Los Angeles, CA *(Dominique Hanssens Best PhD Paper Award)*
 - **2025** — [Workshop on Information Technology and Systems (WITS)](https://witsconf.org/), Nashville, TN
 - **2025** — [Workshop on Information Systems and Economics (WISE)](https://wiseconf.org/), Nashville, TN
